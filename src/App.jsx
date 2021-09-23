@@ -4,7 +4,6 @@ import EmailAdd from './app/pages/EmailAdd';
 import EmailHistory from './app/pages/EmailHistory';
 import Home from './app/pages/Home';
 import './App.css'
-import { Spinner } from 'react-bootstrap';
 
 function App() {
   return (

@@ -4,9 +4,14 @@
 }
 
 .form-label{
-    color: rgb(144 156 158);
+    color: white;
 }
 
 .form-check-label{
-    color: rgb(144 156 158);
+    color: white;
+}
+
+.home-page{
+    text-align: left;
+    color: white;
 }
